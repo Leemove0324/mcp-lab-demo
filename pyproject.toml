@@ -1,0 +1,6 @@
+[project]
+name = "campus-tools"
+version = "0.1.0"
+description = "공개SW실무 MCP 연결 실습"
+requires-python = ">=3.11"
+dependencies = ["mcp[cli]>=1.12,<2"]
